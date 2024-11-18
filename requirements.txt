@@ -1,0 +1,11 @@
+fiona==1.10.0
+geopandas==1.0.1
+gpxpy==1.6.2
+ipykernel==6.29.5
+ipympl==0.9.4
+matplotlib==3.9.2
+numpy==2.1.1
+pandas==2.2.2
+pymongo==4.8.0
+pymongoarrow==1.5.1
+scipy==1.14.1

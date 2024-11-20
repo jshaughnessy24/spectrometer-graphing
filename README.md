@@ -1,0 +1,1 @@
+Displays some common plots given paths to nonreference and reference OceanView USB2000+ Ocean Optics spectrometer data. See code comments for usage.
